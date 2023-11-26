@@ -1,0 +1,136 @@
+{
+	"folders": [
+		{
+			"path": "31_truncate"
+		},
+		{
+			"path": "32_two_list_dictionary"
+		},
+		{
+			"path": "33_sum_range"
+		},
+		{
+			"path": "34_same_frequency"
+		},
+		{
+			"path": "35_two_oldest_ages"
+		},
+		{
+			"path": "36_find_the_duplicate"
+		},
+		{
+			"path": "37_sum_up_diagonals"
+		},
+		{
+			"path": "38_min_max_key_in_dictionary"
+		},
+		{
+			"path": "39_find_greater_numbers"
+		},
+		{
+			"path": "fs_1_is_odd_string"
+		},
+		{
+			"path": "fs_2_valid_parentheses"
+		},
+		{
+			"path": "fs_3_three_odd_numbers"
+		},
+		{
+			"path": "fs_4_reverse_vowels"
+		},
+		{
+			"path": "fs_5_read_file_list"
+		},
+		{
+			"path": "01_product"
+		},
+		{
+			"path": "02_weekday_name"
+		},
+		{
+			"path": "03_last_element"
+		},
+		{
+			"path": "04_number_compare"
+		},
+		{
+			"path": "05_reverse_string"
+		},
+		{
+			"path": "06_single_letter_count"
+		},
+		{
+			"path": "07_multiple_letter_count"
+		},
+		{
+			"path": "08_list_manipulation"
+		},
+		{
+			"path": "09_is_palindrome"
+		},
+		{
+			"path": "10_frequency"
+		},
+		{
+			"path": "11_flip_case"
+		},
+		{
+			"path": "12_multiply_even_numbers"
+		},
+		{
+			"path": "13_capitalize"
+		},
+		{
+			"path": "14_compact"
+		},
+		{
+			"path": "15_intersection"
+		},
+		{
+			"path": "16_partition"
+		},
+		{
+			"path": "17_mode"
+		},
+		{
+			"path": "18_calculate"
+		},
+		{
+			"path": "19_friend_date"
+		},
+		{
+			"path": "20_triple_and_filter"
+		},
+		{
+			"path": "21_extract_full_name"
+		},
+		{
+			"path": "22_sum_floats"
+		},
+		{
+			"path": "23_list_check"
+		},
+		{
+			"path": "24_remove_every_other"
+		},
+		{
+			"path": "25_sum_pairs"
+		},
+		{
+			"path": "26_vowel_count"
+		},
+		{
+			"path": "27_titleize"
+		},
+		{
+			"path": "28_find_factors"
+		},
+		{
+			"path": "29_includes"
+		},
+		{
+			"path": "30_repeat"
+		}
+	]
+}
